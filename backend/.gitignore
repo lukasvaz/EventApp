@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore the database file
+db.sqlite3
+
+# Ignore IDE-specific files
+.vscode/
+
+
